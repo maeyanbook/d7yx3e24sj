@@ -1,0 +1,8 @@
+@echo off
+
+for /l %%i in (1, 0, 10) do (
+    echo.%%i
+
+    rem pauseƒRƒ}ƒ“ƒh‚ÅˆêŽž’âŽ~‚³‚¹‚é
+    pause
+)

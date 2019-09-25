@@ -1,3 +1,3 @@
 @echo off
 
-mkdir .\temp\a .\temp\b .\temp\c
+mkdir .\temp\aa .\temp\bb .\temp\cc

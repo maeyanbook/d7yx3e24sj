@@ -1,3 +1,3 @@
 @echo off
 
-del /s ".\data\temp*.txt"
+del /s ".\data\temp00*.txt"
